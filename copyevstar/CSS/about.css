@@ -1,0 +1,245 @@
+*{
+    /* margin: 0;
+    
+    padding: 0; */
+    margin-top: -1px;
+    font-family:  Arial, Helvetica, sans-serif;
+    color: black;
+    
+
+}
+.circle{
+    background-image: url("/copyevstar/images/whitecir.avif");
+}
+
+
+.header{
+
+height: 500px;
+width: 100%;
+background-color:  rgba(0, 58, 112, 0.9);
+position: relative;
+z-index: 50;
+z-index: 2;
+
+}
+
+/* .site-nav .site-navigation .site-menu > li > a {
+    font-size: 14px;
+    padding: 10px 15px;
+    display: inline-block;
+    text-decoration: none !important;
+    color: rgba(247, 240, 240, 0.7);
+
+ }
+    .site-nav .site-navigation .site-menu > li > a:hover {
+      color: #ede0dc;
+      background-color: #f6a58f;
+     }
+  .site-nav .site-navigation .site-menu > li.active > a {
+    color: #e6dbd9; 
+    background-color: #f6a58f;
+
+} */
+
+
+
+
+.about_bt h1{
+    padding-top: 180px ;
+    padding-left: 45%;
+ 
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+
+}
+.about_bt h1:hover{
+    padding-top: 180px ;
+    padding-left: 45%;
+   
+    font-size: 60px;
+    font-weight: bold;
+   
+}
+.cont{
+    margin-top: 100px;
+}
+
+
+#img{
+
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+
+
+}
+.pagh{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 90px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 2.0;
+    color: rgb(156, 154, 154);
+    /* color: black; */
+}
+.btn{
+    margin-left: 70px;
+    height: 50px;
+    width: 100px;
+    margin-top: 30px;
+    background-color: #ff8e71;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 3 px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn a{
+color: white;
+
+
+}
+.bck{
+    padding-top: 100px;
+ 
+}
+
+
+.committe_img{
+    /* padding-top: 50px; */
+    background-image: url('/copyevstar/images/balckcar.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 40vh;
+      z-index: 2; 
+      margin: 0; 
+      position: relative;
+      overflow: hidden;
+
+      /* transform: 3px; */
+     
+      /* opacity: 4; */
+
+}
+
+
+
+
+
+.exp{
+    padding-left: 30%;
+    padding-top: 3%;
+    /* gap: 30px; */
+    /* color: white; */
+}
+.expe{
+    padding-left: 20%;
+    margin-top: 80px;
+}
+
+
+.product{
+    margin-top: 60px;
+}
+.sec_bck{
+  margin-top: 500px;
+}
+
+
+.committe_image{
+
+    background-image: url('/copyevstar/images/balckcar.jpg');
+
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 40vh;
+z-index: 2; 
+margin: 0; 
+position: relative;
+overflow: hidden;
+}
+/* .img_card{
+    background-color: rgba(0, 58, 112, 0.9);
+    color: white;
+}
+.img_card:hover{
+    background-color: #ff8e71;
+    } */
+
+.experience{
+    background-color: rgba(0, 58, 112, 0.9);
+   
+}
+
+
+    .card{
+   
+        /* background-color: rgb(190, 176, 176); */
+        /* color: white; */
+        /* background-color: white; */
+      
+
+    }
+    .card:hover{
+        background-color: #ff8e71;
+        /* color: black; */
+      
+
+
+    }
+    .card_head{
+        color: black;
+        font-size: large;
+        font-weight: bold;
+
+    
+ }
+ .border_img{
+border: 5px solid  rgba(0, 58, 112, 0.9); 
+border-radius: 50%;
+ margin-top: -90px;
+
+ }
+ .border_img:hover{
+    border: 5px solid  #ff8e71; 
+    border-radius: 50%;
+ margin-top: -90px;
+
+
+
+ }
+     .card_head:hover{
+        /* color: black; */
+        background-color: #ff8e71;
+    } 
+    .card_p{
+        color: black;
+        padding-left: 5px;
+        padding-right: 5px;
+        line-height: 1.6;
+      
+    }
+    .card_p:hover{
+        /* color: black; */
+        background-color: #ff8e71;
+
+    }
+    .abt{
+   
+    color: rgba(0, 58, 112, 0.9);
+     font-size: 60px; 
+    font-weight: bold;
+   
+    background-color: #f6a58f;
+
+    }
+    .abt:hover{
+        color: #f6a58f;
+    background-color: rgba(0, 58, 112, 0.9);    }

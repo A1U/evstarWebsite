@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+/* .move_to_anonoter_page{
+padding-top: 190px;
+padding-left: 330px;
+color: white;
+position: absolute;
+z-index: 50;
+
+} */
+
+.list_itemss  {
+    /* display: flex; */
+    list-style: none;
+    /* gap: 30px; */
+    /* color: black; */
+    /* position: relative; */
+    
+}
+.comp_contact{
+    margin-top: 100px;
+    margin-left: 160px;
+    margin-right: 160px;
+
+
+}
+.email{
+    padding-left: 110px;
+    padding-top: 20px;
+   
+}
+.map_reponsive{
+    overflow: hidden;
+    /* padding-bottom: 56px; */
+    position: relative;
+    /* height: 0; */
+
+}
+.map_reponsive iframe{
+    left: 0;
+    top: 0;
+    /* height: 100%; */
+    width: 100%;
+    /* position: absolute; */
+}

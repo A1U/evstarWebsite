@@ -15,7 +15,8 @@
 
 }
 .card{
-    background-color: #ff8e71;
+    background-color: #f3f3f3;
+    /* color: 'white' */
 }
 
 .sec_con_2{
@@ -43,7 +44,7 @@ padding-top: 100px;
 
 
 .background-container {
-    background-image: url('/copyevstar/images/balckcar.jpg'); 
+    background-image: url('/images/balckcar.jpg'); 
     background-size: cover; 
     background-position: center; 
     
@@ -55,8 +56,8 @@ padding-top: 100px;
 background: #ff8e71;
 margin-left: -20px;
  display: flex; 
- padding-top: 130px;
- padding-left: 28rem;
+ padding-top: 100px;
+ padding-left: 25rem;
  color: white;
  font-weight: bold;
 }

@@ -39,7 +39,7 @@
 padding-top: 100px;    
 }
 .bkcg_images{
-    background-color: #ff8e71;
+    background-color: #ff8e71;;
 
 }
 
@@ -55,6 +55,7 @@ padding-top: 100px;
    height: 100%; 
    width: 140%;
 background: #ff8e71;
+    
 margin-left: -20px;
  display: flex; 
  padding-top: 100px;
